@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736274855 source:c:\users\asustuf2\downloads\practica35\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
